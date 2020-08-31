@@ -1,0 +1,5 @@
+/**
+ * background moving*/
+
+.backgroundmoving{-webkit-tap-highlight-color:transparent;position:relative}
+.backgroundmoving{display:none;width:100%;z-index:1}
